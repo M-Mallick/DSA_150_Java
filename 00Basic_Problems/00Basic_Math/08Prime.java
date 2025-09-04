@@ -17,6 +17,7 @@ class Prime {
 		System.out.print("Enter Number: ");
 		int num = sc.nextInt();
 		boolean prime = prime(num);
-		System.out.print(num+" is a prime: "+prime);
+		System.out.println(num+" is a prime: "+prime);
 	}
+
 } 
