@@ -21,6 +21,7 @@ class GCD {
 		int num1 = sc.nextInt();
 		int num2 = sc.nextInt();
 		int ans = gcd(num1,num2);
-		System.out.print("GCD("+num1+","+num2+"): "+ans);
+		System.out.println("GCD("+num1+","+num2+"): "+ans);
 	}
+
 } 
