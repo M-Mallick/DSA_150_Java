@@ -26,6 +26,7 @@ class CountPrime {
 		int start = sc.nextInt();
 		int end = sc.nextInt();
 		int countPrime = countPrime(start,end);
-		System.out.print("Total number of Prime number: "+countPrime);
+		System.out.println("Total number of Prime number: "+countPrime);
 	}
+
 } 
