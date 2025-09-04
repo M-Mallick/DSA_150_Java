@@ -21,6 +21,7 @@ class Palindrome {
 		System.out.print("Enter Number: ");
 		int num = sc.nextInt();
 		boolean palindrome = palindrome(num);
-		System.out.print(num+" is a Palindrome: "+palindrome);
+		System.out.println(num+" is a Palindrome: "+palindrome);
 	}
+
 }
