@@ -28,6 +28,7 @@ class Armstrong {
 		System.out.print("Enter Number: ");
 		int num = sc.nextInt();
 		boolean armstrong = armstrong(num);
-		System.out.print(num+" is a Armstrong: "+armstrong);
+		System.out.println(num+" is a Armstrong: "+armstrong);
 	}
+
 }
