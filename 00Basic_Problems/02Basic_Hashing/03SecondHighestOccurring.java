@@ -2,6 +2,7 @@
 	Problem Statement: Second Highest Occurring Element
 	File Name: 03SecondHighestOccurring.java
 */
+
 import java.util.Map;
 import java.util.HashMap;
 
