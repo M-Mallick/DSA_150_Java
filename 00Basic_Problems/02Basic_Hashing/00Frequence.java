@@ -2,6 +2,7 @@
 	Problem Statement: Highest Occurring Element in an Array
 	File Name: 00Frequence.java
 */
+
 import java.util.Map;
 import java.util.HashMap;
 
