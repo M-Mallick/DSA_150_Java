@@ -16,7 +16,6 @@ class Reverse {
             left++;
             right--;
         }
-        
         return new String(str);
     }
     public static void main(String[] args) {
