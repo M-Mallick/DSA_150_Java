@@ -23,5 +23,5 @@ class Palindrome {
 		boolean palindrome = palindrome(num);
 		System.out.println(num+" is a Palindrome: "+palindrome);
 	}
-
 }
+
