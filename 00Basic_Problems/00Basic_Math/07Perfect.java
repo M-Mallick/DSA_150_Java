@@ -20,4 +20,5 @@ class Perfect {
 		boolean perfect = perfect(num);
 		System.out.print(num+" is a Perfect: "+perfect);
 	}
+
 } 
