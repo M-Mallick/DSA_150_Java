@@ -2,6 +2,7 @@
 	Problem Statement: Count all Digits of a Number
 	File Name: 00Count.java
 */
+
 import java.util.Scanner;
 class Count {
 	private static int countDigit(int num) {
