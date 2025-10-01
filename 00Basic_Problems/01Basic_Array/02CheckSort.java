@@ -2,6 +2,7 @@
 	Problem Statement: Check if the Array is Sorted I
 	File Name: 02CheckSort
 */
+
 class CheckSort {
 	public static boolean checkSort(int[] arr) {
 		for(int i=0; i<arr.length; i++) {
