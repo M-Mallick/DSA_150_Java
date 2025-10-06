@@ -21,3 +21,4 @@ class Prime {
 	}
 
 } 
+
