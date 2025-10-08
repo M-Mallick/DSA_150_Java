@@ -7,6 +7,7 @@ class Solution {
             arr[i] = nums[i];
             arr[nums.length + i] = nums[i];
         }
+
         return arr;
     }
 }
