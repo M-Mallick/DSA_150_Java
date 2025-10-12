@@ -2,6 +2,7 @@
 	Problem Statement: Reverse a number
 	File Name: 02Reverse.java
 */
+
 import java.util.Scanner;
 class Reverse {
 	private static int reverse(int num) {
@@ -20,4 +21,5 @@ class Reverse {
 		int rev = reverse(num);
 		System.out.print("Reverse of given number: "+rev);
 	}
+
 } 
