@@ -1,6 +1,6 @@
 /*
 	Problem Statement: Count all Digits of a Number
-	File Name: 00Count.java
+	File Name: 00Count.java 
 */
 
 import java.util.Scanner;
