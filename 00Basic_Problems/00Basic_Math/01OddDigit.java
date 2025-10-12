@@ -2,6 +2,7 @@
 	Problem Statement: Count number of odd digits in a number
 	File Name: 01OddDigit.java
 */
+
 import java.util.Scanner;
 class OddDigit {
 	private static int countOddDigit(int num) {
@@ -22,4 +23,5 @@ class OddDigit {
 		int countOddDigit = countOddDigit(num);
 		System.out.print("Total number of odd digit: "+countOddDigit);
 	}
+
 } 
