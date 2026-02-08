@@ -1,4 +1,5 @@
 // Remove white spaces from string in java
+import java.util.*;
 class Main {
     public static void main(String[] args) {
         String ip = "Hello World"; // It is immutabe
@@ -10,6 +11,10 @@ class Main {
                 s.append(ip.charAt(i));
             }
         }
-        System.out.print(s.toString());
+        System.out.println(s.toString());
+        
+        // Method 2
+        String result = ip.replace(" ", "");
+        System.out.println(result);
     }
 }
