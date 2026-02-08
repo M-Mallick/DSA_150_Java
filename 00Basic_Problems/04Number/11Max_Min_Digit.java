@@ -4,6 +4,9 @@ public class Main {
 	    Scanner sc = new Scanner(System.in);
 	    System.out.print("Enter a number: ");
 	    int num = sc.nextInt();
+	    
+	    num = (int) Math.abs(num);  // handle negative numbers
+	    
 	    int max = Integer.MIN_VALUE;
 	    int min = Integer.MAX_VALUE;
 	    
