@@ -5,8 +5,7 @@ public class Main {
 	    int count = 0;
 	    if(num == 0) {
 	        count = 1;
-	    }
-	    else {
+	    }else {
 	        while(num != 0) {
 	            num /= 10;
 	            count++;
