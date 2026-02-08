@@ -1,4 +1,4 @@
-// Reverse Each word of a string in java
+// Reverse Each word of a string in java  [ T.C = O(n) & S.C = O(n)]
 import java.util.*;
 class Main {
     private static String reverse(String str) {
