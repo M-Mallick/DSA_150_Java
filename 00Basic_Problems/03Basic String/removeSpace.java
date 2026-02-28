@@ -1,3 +1,7 @@
+/*
+ 	replace() replaces literal characters and does not use regex, so it is faster.
+	replaceAll() uses regular expressions internally, which makes it more powerful but slightly slower.
+*/
 import java.util.*;
 public class Main {
     public static String removeRemove(String str) {
